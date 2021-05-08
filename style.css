@@ -1,0 +1,21 @@
+body {
+    background-color: aquamarine;
+}
+#foundname {
+    font-size: large;
+}
+#guestlist {
+    font-size: large;
+    width:180px;
+    background-color: yellow;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: dashed;
+    height: 250px;
+}
+div {
+    font-size: xx-large;
+}
+#textstyleonly {
+    font-size: large;
+}
